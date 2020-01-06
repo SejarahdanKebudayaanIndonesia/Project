@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\COMPUTER\.android\build-cache\3c8f08a36595f3314c7f5e4cdaa58254ca70d867\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\tubes mobile\BudayakuV2-master\app\build\intermediates\pre-dexed\debug\classes_1aadf5c89e976cc81e3179bd725b66b7cbf24e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\COMPUTER\.android\build-cache\fc07d07d289bccc7cb60461f8771619bcb1a88c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\tubes mobile\BudayakuV2-master\app\build\intermediates\pre-dexed\debug\classes_548cb92f22bc4370d17f9a543483dbd43d027b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\COMPUTER\.android\build-cache\5dfbcce04e0f05cedf0c0f47e88b08f96c847093\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\tubes mobile\BudayakuV2-master\app\build\intermediates\pre-dexed\debug\classes_97dea67eece300471ec884b9e1317547d6c13858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\COMPUTER\.android\build-cache\fccadcd3d4f43e9c8d67e043c306a9d05bb0c531\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\tubes mobile\BudayakuV2-master\app\build\intermediates\pre-dexed\debug\classes_4552b1ef9a2ab7f54ffc9495fae1a866784a2f85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\COMPUTER\.android\build-cache\864703ce4a61d54142e6cfbc68858c581d254683\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\tubes mobile\BudayakuV2-master\app\build\intermediates\pre-dexed\debug\classes_6140111c6b32194da7c04440aa4fbe9cf49fdec3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\COMPUTER\.android\build-cache\c5e6a85be2b5f3cd8d72e8e1f1a9c5fa538e56b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\tubes mobile\BudayakuV2-master\app\build\intermediates\pre-dexed\debug\classes_e9ea10d37b26dfa8f9df5d6407ecca1edcae7ea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\COMPUTER\.android\build-cache\7f45a9ace95bd14d553a52028b38f975c2f1afeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\tubes mobile\BudayakuV2-master\app\build\intermediates\pre-dexed\debug\classes_057dcd7c6bf569cd580696b5a868b113f5204f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\COMPUTER\.android\build-cache\2d225d4a1586d8e979db5b85920ec264cb896d11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\tubes mobile\BudayakuV2-master\app\build\intermediates\pre-dexed\debug\classes_e5af253ff0b331a5a6618800aa0356d0f8b50b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\COMPUTER\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\tubes mobile\BudayakuV2-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_ce7af295ca082291d0f2a867cb15cab7b1ae1d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\COMPUTER\.android\build-cache\51a455ea71535ab954ae5ccf4fef48ab52c20976\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\tubes mobile\BudayakuV2-master\app\build\intermediates\pre-dexed\debug\classes_140dca7015c31a90ebb318a2a3bcfe8a406acef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\COMPUTER\.android\build-cache\221b13f72a75d5bfe44824ca353cf5854e0d1f95\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\tubes mobile\BudayakuV2-master\app\build\intermediates\pre-dexed\debug\classes_afb929dcd46c0872ab34402f2e988481b2f12b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\COMPUTER\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\tubes mobile\BudayakuV2-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7b3e8b149097b85933fc79fc65c58896a50e456d.jar" />
+    </item>
+
+</items>
